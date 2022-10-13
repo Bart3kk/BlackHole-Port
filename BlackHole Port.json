@@ -3,7 +3,7 @@
         "author": "Bart3k",
         "name": "BlackHole Port",
         "version": "1.0.0"
-        "updater": ""
+        "updater": "https:\/\/raw.githubusercontent.com\/Bart3kk\/BlackHole-Port\/main\/BlackHole%20Port.json"
     },
     "background": {
         "overlay_alpha": 0,
