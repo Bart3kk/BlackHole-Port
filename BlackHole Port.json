@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Bart3k",
         "name": "BlackHole Port",
-        "version": "1.0.0"
+        "version": "1.0.0",
         "updater": "https:\/\/raw.githubusercontent.com\/Bart3kk\/BlackHole-Port\/main\/BlackHole%20Port.json"
     },
     "background": {
@@ -11,7 +11,13 @@
         "url": "https:\/\/media.discordapp.net\/attachments\/928284600118177862\/1030114507059630140\/IMG_20221013_154524.jpg"
     },
     "fonts": {},
-    "simple_colors": {},
+    "simple_colors": {
+        "active_channel": 0,
+        "background": 0,
+        "background_secondary": 0,
+        "mention_highlight": 654290688,
+        "blocked_bg": 637534208
+    },
     "colors": {},
     "drawable_tints": {},
     "raws": {
