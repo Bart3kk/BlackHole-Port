@@ -7,14 +7,14 @@
     },
     "background": {
         "overlay_alpha": 0,
-        "blur_radius": 5,
-        "url": "https:\/\/media.discordapp.net\/attachments\/928284600118177862\/1030114507059630140\/IMG_20221013_154524.jpg"
+        "url": "https:\/\/media.discordapp.net\/attachments\/928284600118177862\/1030114481625378846\/IMG_20221013_154651.jpg",
+        "blur_radius": 0.1
     },
     "fonts": {},
     "simple_colors": {
-        "active_channel": 0,
-        "background": 0,
-        "background_secondary": 0,
+        "active_channel": -1299018612,
+        "background": 822083584,
+        "background_secondary": 855638016,
         "mention_highlight": 654290688,
         "blocked_bg": 637534208
     },
