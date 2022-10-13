@@ -1,0 +1,21 @@
+{
+    "manifest": {
+        "author": "Bart3k",
+        "name": "BlackHole Port",
+        "version": "1.0.0"
+        "updater": ""
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "blur_radius": 5,
+        "url": "https:\/\/media.discordapp.net\/attachments\/928284600118177862\/1030114507059630140\/IMG_20221013_154524.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {
+        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/895131174270279680\/908534089752150106\/Discord_Remix.mp3",
+        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/895131174270279680\/908534089752150106\/Discord_Remix.mp3"
+    }
+}
